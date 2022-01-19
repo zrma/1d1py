@@ -1,0 +1,21 @@
+type: dataset
+files:
+- name: main.py
+  visible: true
+  text: "#  write your code here \n\n"
+  learner_created: false
+- name: data/sample/input.txt
+  visible: true
+  text: |
+    6 1 8 3 0 5 0 8 2 3
+    9 8 2 4 0 1 7 7 7 7
+  learner_created: false
+- name: data/dataset/input.txt
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/16617#comment
+status: Solved
+feedback:
+  message: <html>You are correct</html>
+  time: Wed, 19 Jan 2022 12:17:12 UTC
+record: -1
